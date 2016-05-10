@@ -3,7 +3,9 @@ Converts windows BMP file to a Format the SAM Coupe can understand
 
 Introduction
 
-This program is used to convert a BMP file (24bit or 8bit) of any size into a format that will work with a SAM Coupé. Main use is so you can draw graphics on a PC/Mac etc. for use on the SAM Coupé. Converts colours to 7bit and makes a palette of 16 colors from the most used colours. You can also set a starting palette of colours you need (very useful for games that need fixed colours)
+This program is used to convert a BMP file (24bit or 8bit) of any size into a format that will work with a SAM Coupé. Main use is so you can draw graphics on a PC/Mac etc. for use on the SAM Coupé. 
+
+Converts colours to 7bit and makes a palette of 16 colors from the most used colours. You can also set a starting palette of colours you need (very useful for games that need fixed colours)
 
 With photos it's best on the PC to convert to Web216 colour system.
 
